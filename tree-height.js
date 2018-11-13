@@ -6,7 +6,7 @@ const BinarySearchTree = require('./bst');
  * input -> search tree
  *       5
  *     /   \
- *   2     20
+ *    2     20
  *   / \    / \
  *  1   4  15  21
  *
